@@ -4,7 +4,7 @@ defaults:
     description:
     link:
     author: John Reese
-    sig: "&lambda;"
+    sig: '<i class="icon-gamepad"></i>'
 
 site:
     title: John Reese
